@@ -1,0 +1,2 @@
+# Harjutamine_Kirill_Kononenko
+Versioonihalduse harjutamine GitHubis
